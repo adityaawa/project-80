@@ -1,0 +1,10 @@
+text-align center 
+
+body {
+    background-color: yellowgreen;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
